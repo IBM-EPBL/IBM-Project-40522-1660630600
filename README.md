@@ -5,13 +5,13 @@ Team ID: PNT2022TMID41769
 
 Batch: B8-2A4E
 
-Team Leader
+Team Leader:
 VEERAMANI P
 
-Team members
-VIJAY M
-SUBASH B
-SRIDHAR BG
+Team members:
+VIJAY M,
+SUBASH B,
+SRIDHAR BG.
 
 Project Description:
 
